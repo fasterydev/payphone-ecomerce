@@ -10,7 +10,6 @@ El proyecto está dividido en dos partes: un **frontend** en **Next.js** y un **
 - **Frontend:** [Next.js](https://nextjs.org/) + [shadcn/ui](https://ui.shadcn.com/)
 - **Backend:** [NestJS](https://nestjs.com/)
 - **Pagos:** [PayPhone API](https://payphone.app/)
-- **Base de datos:** PostgreSQL / Prisma
 - **Autenticación:** JWT
 - **Despliegue:** Vercel, Docker, AWS o Render
 - **Lenguaje:** TypeScript
