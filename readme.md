@@ -23,8 +23,8 @@ Este repositorio actúa como un **monorepo** con submódulos para cada servicio:
 
 | Módulo | Descripción | Ruta local | Repositorio |
 |---|---|---|---|
-| 🧠 **Backend (API)** | API REST con NestJS, conectada a PayPhone | `api-payphone-ecomerce` | [https://github.com/fasterydev/api-payphone-ecomerce](https://github.com/fasterydev/api-payphone-ecomerce) |
-| 💅 **Frontend (Web)** | Tienda online y panel de administración en Next.js | `web-payphone-ecomerce` | [https://github.com/fasterydev/web-payphone-ecomerce](https://github.com/fasterydev/web-payphone-ecomerce) |
+| **Backend (API)** | API REST con NestJS, conectada a PayPhone | `api-payphone-ecomerce` | [https://github.com/fasterydev/api-payphone-ecomerce](https://github.com/fasterydev/api-payphone-ecomerce) |
+| **Frontend (Web)** | Tienda online y panel de administración en Next.js | `web-payphone-ecomerce` | [https://github.com/fasterydev/web-payphone-ecomerce](https://github.com/fasterydev/web-payphone-ecomerce) |
 
 El archivo `.gitmodules` gestiona estos módulos automáticamente.
 
