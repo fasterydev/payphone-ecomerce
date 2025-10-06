@@ -1,4 +1,4 @@
-# 🛍️ PayPhone E-commerce — Integración completa con Next.js + NestJS
+# 🛍️ PayPhone E-commerce - Integración completa con Next.js + NestJS
 
 **PayPhone E-commerce** es una solución moderna y modular para integrar **pagos con PayPhone** en tiendas en línea.  
 El proyecto está dividido en dos partes: un **frontend** en **Next.js** y un **backend API** en **NestJS**, ambos diseñados para escalar fácilmente y usarse por separado o en conjunto.
