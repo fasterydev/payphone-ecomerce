@@ -1,0 +1,6 @@
+[submodule "web-payphone-ecomerce"]
+	path = web-payphone-ecomerce
+	url = https://github.com/fasterydev/web-payphone-ecomerce.git
+[submodule "api-payphone-ecomerce"]
+	path = api-payphone-ecomerce
+	url = https://github.com/fasterydev/api-payphone-ecomerce.git
