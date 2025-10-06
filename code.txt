@@ -1,4 +1,0 @@
-git submodule add https://github.com/fasterydev/web-payphone-ecomerce.git web-payphone-ecomerce
-git submodule add https://github.com/fasterydev/api-payphone-ecomerce.git api-payphone-ecomerce
-
-git submodule update --init --recursive
